@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'newfont';
+    src: url('ShipporiMincho-Bold.ttf');
+}
+
+.newfont{
+    font-family: newfont;
+}
